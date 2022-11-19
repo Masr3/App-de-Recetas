@@ -1,6 +1,6 @@
 # App de Recetas
 
-en esta app puedes agregar, editar y eliminar recetas.
+En esta app puedes agregar, editar y eliminar tus recetas.
 Las recetas vienen con su propia imagen, ademas de su
 propia descripción.
 
