@@ -10,3 +10,7 @@ propia descripción.
 - Angular 14
 - Bootstrap 3
 - NGRX
+
+## Diseño Responsive 
+
+Esta app contiene Responsive Design, haciendo que se pueda utilizar en dispositivos de pantallas tanto grandes como pequeñas sea tu celular o tu tableta.
