@@ -10,9 +10,11 @@ import {Recipe} from "../recipe.model";
 export class RecipeListComponent implements OnInit {
     recipes:Recipe[] = [
 
-    new Recipe("Pizza","Delicious Pizza","https://cdn.com.do/wp-content/uploads/2017/07/12dc1a9d-pizza.jpg")
+    new Recipe("Pizza","Deliciosa pizza de vegetales","https://cdn.com.do/wp-content/uploads/2017/07/12dc1a9d-pizza.jpg"),
+      new Recipe("Hamburguesa","Jugosa hamburguesa con bacon","https://www.sargento.com/assets/Uploads/Recipe/Image/burger_0__FillWzExNzAsNTgzXQ.jpg")
 
-]
+
+    ]
   constructor() { }
 
   ngOnInit(): void {
