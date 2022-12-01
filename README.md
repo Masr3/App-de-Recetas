@@ -9,7 +9,6 @@ propia descripción.
 
 - Angular 14
 - Bootstrap 3
-- NGRX
 
 ## Diseño Responsive 
 
